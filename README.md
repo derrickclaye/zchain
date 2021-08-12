@@ -29,7 +29,7 @@
 
 ### Flags meanings
 
---datadir: choose node directory 
+-- datadir: choose node directory 
 --mine: make that node a miner
 --miner.threads: specify how many threads your computer should dedicate to this task
 --rpc: enables us to talk to our second node, which will allow us to use MyCrypto or Metamask to transact on our chain
